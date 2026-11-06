@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.pbi/
+Thumbs.db
+/data/youtube_music_history_expanded.csv
